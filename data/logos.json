@@ -1,0 +1,26 @@
+[
+  {
+    "src": "/logos/sample1.svg",
+    "alt": "Client 1"
+  },
+  {
+    "src": "/logos/sample2.svg",
+    "alt": "Client 2"
+  },
+  {
+    "src": "/logos/sample3.svg",
+    "alt": "Client 3"
+  },
+  {
+    "src": "/logos/sample4.svg",
+    "alt": "Client 4"
+  },
+  {
+    "src": "/logos/sample5.svg",
+    "alt": "Community 1"
+  },
+  {
+    "src": "/logos/sample6.svg",
+    "alt": "Community 2"
+  }
+]

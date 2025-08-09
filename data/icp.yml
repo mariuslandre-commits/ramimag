@@ -1,0 +1,28 @@
+regions:
+  - Quebec
+  - Canada
+  - North America
+industries:
+  - Consulting & Professional Services (primary)
+  - SaaS / Technology (secondary)
+company_size:
+  consulting_min_employees: 150
+  saas_min_employees: 50
+stakeholders:
+  - CEO
+  - CRO
+  - COO
+  - CFO
+  - Practice Heads
+  - ESG/Legal
+  - Procurement
+pains_solved:
+  - Unclear ICP, weak SQL quality
+  - Price pressure and deal stalls
+  - Forecast gaps and pipeline volatility
+  - Low expansion / upsell motion
+playbooks:
+  - Outbound orchestration on intent & signals
+  - MEDDPICC hygiene and deal inspection
+  - Challenger discovery and value defense
+  - Land-and-expand via consultant-led farming

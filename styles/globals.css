@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --brand-navy:#0B2333;
+  --brand-navy-2:#133A4F;
+  --brand-light:#A7CDE6;
+  --brand-green:#6EA245;
+  --brand-orange:#F29D49;
+}
+
+html:focus-within{scroll-behavior:smooth;}
+@media (prefers-reduced-motion: reduce){
+  html:focus-within{scroll-behavior:auto;}
+}
+
+body{@apply bg-neutral-bg text-neutral-ink antialiased;}
+
+.prose p{@apply text-neutral-sub leading-relaxed;}
+
+a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{
+  outline:3px solid var(--brand-orange);
+  outline-offset:2px;
+}
